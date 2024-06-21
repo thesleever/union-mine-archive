@@ -1,0 +1,43 @@
+{
+	id: "f15dedad-11e1-440f-8850-124eff8398a2"
+	type: "party"
+	owner: "e03d8644-f8c1-45c8-b31a-641a2ab07614"
+	ranks: {
+		e03d8644-f8c1-45c8-b31a-641a2ab07614: "owner"
+		38a1213f-a0fc-4548-955c-57c91204001e: "member"
+		154c9b8a-74cd-41b6-a692-6cb7d96f12f9: "member"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_and_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+		"ftbteams:display_name": "UFF"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5979"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1711826138484L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"lol4er\"}]}" }
+		{ from: "e03d8644-f8c1-45c8-b31a-641a2ab07614", date: 1711826146537L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"meinaiaki\"}]}" }
+		{ from: "e03d8644-f8c1-45c8-b31a-641a2ab07614", date: 1711826146537L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"thesleever\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1711826151607L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"meinaiaki\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1711826155657L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"thesleever\"}]}" }
+		{ from: "e03d8644-f8c1-45c8-b31a-641a2ab07614", date: 1711826165390L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"thesleever\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1711828520734L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"thesleever\"}]}" }
+		{ from: "e03d8644-f8c1-45c8-b31a-641a2ab07614", date: 1712084692012L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"thesleever\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1712084738914L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"thesleever\"}]}" }
+		{ from: "e03d8644-f8c1-45c8-b31a-641a2ab07614", date: 1712111982529L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"hitomiyax\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1712111991993L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"hitomiyax\"}]}" }
+		{ from: "e03d8644-f8c1-45c8-b31a-641a2ab07614", date: 1712112398162L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"hitomiyax\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info UFF#f15dedad\"},\"text\":\"UFF\"}]}" }
+	]
+	extra: { }
+}
